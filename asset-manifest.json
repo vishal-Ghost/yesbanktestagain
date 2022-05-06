@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yesbanktestagain/static/css/main.1b54d964.css",
+    "main.js": "/yesbanktestagain/static/js/main.b0509d51.js",
+    "static/js/787.a0fd9952.chunk.js": "/yesbanktestagain/static/js/787.a0fd9952.chunk.js",
+    "index.html": "/yesbanktestagain/index.html",
+    "main.1b54d964.css.map": "/yesbanktestagain/static/css/main.1b54d964.css.map",
+    "main.b0509d51.js.map": "/yesbanktestagain/static/js/main.b0509d51.js.map",
+    "787.a0fd9952.chunk.js.map": "/yesbanktestagain/static/js/787.a0fd9952.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b54d964.css",
+    "static/js/main.b0509d51.js"
+  ]
+}
